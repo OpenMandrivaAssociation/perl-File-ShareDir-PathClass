@@ -61,3 +61,10 @@ rm -rf %buildroot
 %perl_vendorlib/*
 
 
+
+
+%changelog
+* Fri Jun 17 2011 Guillaume Rousse <guillomovitch@mandriva.org> 1.101.620-1mdv2011.0
++ Revision: 685754
+- import perl-File-ShareDir-PathClass
+
