@@ -1,6 +1,5 @@
 %define upstream_name    File-ShareDir-PathClass
-%define upstream_version 1.101620
-
+%define upstream_version 1.112440
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version 1.112440
 Release:    1
