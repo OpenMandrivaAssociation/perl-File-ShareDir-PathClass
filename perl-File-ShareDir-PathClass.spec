@@ -2,7 +2,7 @@
 %define upstream_version 1.112440
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version 1.112440
-Release:    2
+Release:    3
 
 Summary:    File::ShareDir returning Path::Class objects
 License:    GPL+ or Artistic
